@@ -18,26 +18,26 @@ Se puede utilizar cualquier modelo preentrenado como base para la transferencia 
 <img src="images/network.png" width="400">
 
 ## Resultados
-Se entreno el modelo para las siguientes denominaciones: {0:'1000F_Anv', 
-           1:'100FC_Anv', 
-           2:'100FC_Rev', 
-           3:'100F_Anv', 
-           4:'100F_Rev', 
-           5:'200FConm_Anv', 
-           6:'200FConm_Rev', 
-           7:'200F_Anv', 
-           8:'200F_Rev', 
-           9:'20F_Anv', 
-           10:'20F_Rev', 
-           11:'500D1_Anv', 
-           12:'500D1_Rev', 
-           13:'500F_Anv', 
-           14:'500F_Rev', 
-           15:'500G_Anv', 
-           16:'50F1_Anv', 
-           17:'50F1_Rev',
-           18:'50F_Anv',
-           19:'50F_Rev'}; y se obtuvierón los siguientes resultados:
+Se entreno el modelo para las siguientes denominaciones: 1000F_Anv, 
+           100FC_Anv,
+           100FC_Rev,
+           100F_Anv,
+           100F_Rev,
+           200FConm_Anv,
+           200FConm_Rev,
+           200F_Anv,
+           200F_Rev,
+           20F_Anv,
+           20F_Rev,
+           500D1_Anv,
+           500D1_Rev,
+           500F_Anv,
+           500F_Rev,
+           500G_Anv,
+           50F1_Anv,
+           50F1_Rev,
+           50F_Anv',
+           50F_Rev; y se obtuvierón los siguientes resultados:
 <img src="images/resultado1.png" width="500">
 <img src="images/resultado2.png" width="500">
 <img src="images/resultado3.png" width="500">
