@@ -15,7 +15,7 @@ La estrategia consiste en usar redes neuronales profundas previamente preentrena
 Se puede utilizar cualquier modelo preentrenado como base para la transferencia de aprendizaje, en nuestro caso utilizaremos la red MobileNet V2 para poder exportarla a dispositivos móviles.
 
 ## Arquitectura del MobileNet V2
-<img src="images/network.png" width="500">
+<img src="images/network.png" width="300">
 
 ## Resultados
 Se entreno el modelo para las siguientes denominaciones: {0:'1000F_Anv', 
@@ -38,8 +38,8 @@ Se entreno el modelo para las siguientes denominaciones: {0:'1000F_Anv',
            17:'50F1_Rev',
            18:'50F_Anv',
            19:'50F_Rev'}; y se obtuvierón los siguientes resultados:
-<img src="images/resultado1.png" width="400">
-<img src="images/resultado2.png" width="400">
+<img src="images/resultado1.png" width="500">
+<img src="images/resultado2.png" width="500">
 <img src="images/resultado3.png" width="400">
 <img src="images/resultado4.png" width="400">
 <img src="images/resultado5.png" width="400">
